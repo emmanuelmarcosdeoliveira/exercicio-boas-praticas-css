@@ -1,0 +1,15 @@
+{
+  "name": "boas-praticas-css",
+  "version": "1.0.0",
+  "description": "Repositótio para entrega do Exercício do Modulo 19 - Boas Praticas de CSS (SMACSS - BEM)",
+  "main": "index.js",
+  "scripts": {
+    "sass" : "sass",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.66.1"
+  }
+}
